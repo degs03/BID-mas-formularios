@@ -1,0 +1,24 @@
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+.box{
+    display: flex;
+    width: 500px;
+    height: 50px;
+    padding: 0 20px;
+    justify-content: space-between;
+    align-items: center;
+    color: #b3b3b3;
+    border-radius: 10px;
+    border: #cccccc solid 2px;
+    background-color: #f6f6f6;
+}
+input{
+    border: lightslategray 1px solid;
+    height: 30px;
+    width: 250px;
+    border-radius: 10px;
+}

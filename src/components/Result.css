@@ -1,0 +1,15 @@
+.boxResult{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: center;
+    margin-top: 50px ;
+} 
+.content{
+    width: 500px;
+    font-weight: bold;
+}  
+h2{
+    text-align: center;
+}
+
